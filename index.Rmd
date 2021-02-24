@@ -1,18 +1,18 @@
 ---
 title: "Lucky Mehra"
-description: |
-  Welcome to the website. I hope you enjoy it!
+image: "lucky.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/luckymehra/"
+  - label: Twitter
+    url: "https://twitter.com/lmehra"
+  - label: GitHub
+    url: "https://github.com/luckymehra"
+  - label: Email
+    url: "mailto:mehra27lucky@gmail.com"
+output:
+  postcards::jolla
 site: distill::distill_website
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
-
-```
-
+ 
+I am a plant disease epidemiologist by training. I worked on epidemiology of Septoria nodorum blotch during my PhD from North Carolina State University, Raleigh. In my MS, I worked on postharvest diseases of blueberry and pomegranate at University of Georgia, Athens.

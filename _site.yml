@@ -1,12 +1,15 @@
-name: "website-distill"
+name: "."
 title: "Lucky Mehra"
 description: |
   Lucky Mehra
 output_dir: "docs"
+theme: postcards.css
 navbar:
   right:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Blog"      # add
+      href: blog.html   # add
 output: distill::distill_article

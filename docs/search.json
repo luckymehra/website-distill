@@ -6,16 +6,22 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-02-23T18:46:37-05:00"
+      "last_modified": "2021-02-23T19:27:54-05:00"
+    },
+    {
+      "path": "blog.html",
+      "title": "Blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-02-23T19:27:56-05:00"
     },
     {
       "path": "index.html",
       "title": "Lucky Mehra",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-02-23T18:46:39-05:00"
+      "contents": "\r\n\r\n          \r\n          \r\n          Lucky Mehra\r\n          \r\n          \r\n          Home\r\n          About\r\n          Blog\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            Lucky Mehra\r\n          \r\n          \r\n            \r\n              I am a plant disease epidemiologist by training. I worked on epidemiology of Septoria nodorum blotch during my PhD from North Carolina State University, Raleigh. In my MS, I worked on postharvest diseases of blueberry and pomegranate at University of Georgia, Athens.\r\n            \r\n            \r\n              I am a plant disease epidemiologist by training. I worked on epidemiology of Septoria nodorum blotch during my PhD from North Carolina State University, Raleigh. In my MS, I worked on postharvest diseases of blueberry and pomegranate at University of Georgia, Athens.\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Twitter\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    LinkedIn\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Twitter\r\n                  \r\n                \r\n                                \r\n                  \r\n                    GitHub\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2021-02-23T19:27:56-05:00"
     }
   ],
-  "collections": []
+  "collections": ["posts/posts.json"]
 }
